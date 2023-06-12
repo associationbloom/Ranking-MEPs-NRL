@@ -24,6 +24,3 @@ Abstention/Absence	0
 
 The sum of these points was then calculated and calibrated to range from 0 to 20. In the calculation, care has been taken to consider the start and end dates of term of office. Some MEPs arrived during the legislature to replace MEPs who had begun a mandate in their own country or who had left the parliament because of Brexit. For these MEPs, only the texts passed during their term of office were considered for the calculation of the score.
 
-The results of this analysis have been published online in an MEP rating platform at the following address :
-https://europeennes.bloomassociation.org/preprod/index.php
-
